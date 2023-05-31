@@ -1,3 +1,8 @@
+"""
+エリアコードは以下を参照すること
+https://www.jma.go.jp/bosai/common/const/area.json
+"""
+
 import requests
 from datetime import datetime
 
